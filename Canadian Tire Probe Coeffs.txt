@@ -1,0 +1,6 @@
+Coefficient A = 0.000881695175
+Coefficient B = 0.000180855655
+Coefficient C = 0.000000138945
+
+
+Meat Probes
